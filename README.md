@@ -39,7 +39,7 @@ STS Benchmark comprises a selection of the English datasets used in the STS task
 
 | Dataset | Total | Train | Dev/Test | Topic                 |
 |---------|-------|-------|----------|-----------------------|
-| ADS     | 1582  | 70%   | 30%      | Computer Science      |
+| ADS     | 1,582  | 70%   | 30%      | Computer Science      |
 | LE      | 585   | 70%   | 30%      | Logistics Engineering |
 | ASAG    | 630   | 70%   | 30%      | Computer Science      |
 | SR      | 331   | 70%   | 30%      | Health Informatics    |
@@ -48,7 +48,7 @@ STS Benchmark comprises a selection of the English datasets used in the STS task
 
 | Dataset       | Total | Train | Dev/Test | Topic |
 |---------------|-------|-------|----------|-------|
-| STS-Benchmark | 8625  | 67%   | 16%      | News  |
+| STS-Benchmark | 8,625  | 67%   | 16%      | News  |
 
 ## Citation
 
