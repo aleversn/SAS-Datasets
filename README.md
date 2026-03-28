@@ -6,6 +6,7 @@
 
 ## 📅 Update
 
+- [2026/03/08]() Our work on LLM-based data augmentation for short answer scoring in low-resource scenarios has been accepted by _IEEE TKDE_.
 - [2024/10/10](/ADS) Update a new dataset in the field of Computer Science.
 
 ## 📄 Description
@@ -53,6 +54,17 @@ STS Benchmark comprises a selection of the English datasets used in the STS task
 ## Citation
 
 ```
+@ARTICLE{11433809,
+  author={Lai, Peichao and Zhang, Kexuan and Wang, Yilei and Cui, Bin},
+  journal={IEEE Transactions on Knowledge and Data Engineering}, 
+  title={Improving Low-Resource Short Answer Scoring Through Large Language Model-Based Data Augmentation}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-14},
+  keywords={Synthetic aperture sonar;Semantics;Training;Data models;Transfer learning;Data augmentation;Multilingual;Knowledge graphs;Feature extraction;Accuracy;Few-shot learning;knowledge graph-based data augmentation;semantic alignment;short answer scoring},
+  doi={10.1109/TKDE.2026.3673734}}
+
 @article{Lai2023MSimMS,
   title    = {{M-Sim}: Multi-level Semantic Inference Model for Chinese short answer scoring in low-resource scenarios},
   journal  = {Computer Speech \& Language},
