@@ -64,7 +64,9 @@ STS Benchmark comprises a selection of the English datasets used in the STS task
   pages={1-14},
   keywords={Synthetic aperture sonar;Semantics;Training;Data models;Transfer learning;Data augmentation;Multilingual;Knowledge graphs;Feature extraction;Accuracy;Few-shot learning;knowledge graph-based data augmentation;semantic alignment;short answer scoring},
   doi={10.1109/TKDE.2026.3673734}}
+```
 
+```
 @article{Lai2023MSimMS,
   title    = {{M-Sim}: Multi-level Semantic Inference Model for Chinese short answer scoring in low-resource scenarios},
   journal  = {Computer Speech \& Language},
